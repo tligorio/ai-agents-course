@@ -20,7 +20,7 @@ Build an agent that reasons step-by-step and uses tools to solve problems, from 
 ---
 
 ### 2. ReAct Agent with LangChain - Framework Approach -COMING SOON
-Build a ReAct agent using LangChain's components. Compare how tool integration, prompting, and execution differ from the manual implementation. Uses open-source models.
+Build a ReAct agent using LangChain's components. Compare how tool integration, prompting, and execution differ from the manual implementation. 
 
 [![Open In Colab-Coming Soon](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR_USERNAME/langchain-agent-tutorial/blob/main/langchain_agent.ipynb)
 
@@ -29,7 +29,7 @@ Build a ReAct agent using LangChain's components. Compare how tool integration, 
 ---
 
 ### 3. Multi-Agent Collaboration with LangGraph -COMING SOON
-Build a system with multiple specialized agents working together, each handling different sub-tasks and tools. Explore LangGraph's graph-based orchestration. Uses open-source models.
+Build a system with multiple specialized agents working together, each handling different sub-tasks and tools. Explore LangGraph's graph-based orchestration.
 
 [![Open In Colab-Coming Soon](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR_USERNAME/memory-agent-tutorial/blob/main/memory_agent.ipynb)
 
