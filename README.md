@@ -12,13 +12,15 @@ This repository contains coding tutorials for the AI Agents course. Each tutoria
 ### 1. ReAct Agent with Hugging Face Transformers - No Frameworks, No paid APIs
 Build an agent that reasons step-by-step and uses tools to solve problems, from scratch (framework-free). Uses open-source models.
 
-[![Open In Colab -Coming Soon](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR_USERNAME/react-agent-tutorial/blob/main/react_agent.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tligorio/hugging_react_agent_tutorial/blob/main/hugging_ReAct_agent_Qwen2_5.ipynb)
 
-[Repository-Coming Soon](https://github.com/YOUR_USERNAME/react-agent-tutorial)
+https://github.com/tligorio/hugging_react_agent_tutorial
+
+[Repository](https://github.com/tligorio/hugging_react_agent_tutorial/tree/main)
 
 ---
 
-### 2. ReAct Agent with LangChain - Framework Approach
+### 2. ReAct Agent with LangChain - Framework Approach -COMING SOON
 Build a ReAct agent using LangChain's components. Compare how tool integration, prompting, and execution differ from the manual implementation. Uses open-source models.
 
 [![Open In Colab-Coming Soon](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR_USERNAME/langchain-agent-tutorial/blob/main/langchain_agent.ipynb)
@@ -27,7 +29,7 @@ Build a ReAct agent using LangChain's components. Compare how tool integration, 
 
 ---
 
-### 3. Multi-Agent Collaboration with LangGraph
+### 3. Multi-Agent Collaboration with LangGraph -COMING SOON
 Build a system with multiple specialized agents working together, each handling different sub-tasks and tools. Explore LangGraph's graph-based orchestration. Uses open-source models.
 
 [![Open In Colab-Coming Soon](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR_USERNAME/memory-agent-tutorial/blob/main/memory_agent.ipynb)
