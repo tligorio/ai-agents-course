@@ -14,7 +14,6 @@ Build an agent that reasons step-by-step and uses tools to solve problems, from 
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tligorio/hugging_react_agent_tutorial/blob/main/hugging_ReAct_agent_Qwen2_5.ipynb)
 
-https://github.com/tligorio/hugging_react_agent_tutorial
 
 [Repository](https://github.com/tligorio/hugging_react_agent_tutorial/tree/main)
 
