@@ -1,5 +1,5 @@
 # AI Agents Course - Code Tutorials
-### Taught at Hunter College of The City University of New York
+### Tiziana Ligorio for *AI Agents course (CSCI 395.32)* taught at Hunter College of The City University of New York
 
 This repository contains coding tutorials for the AI Agents course. Each tutorial is a standalone Jupyter notebook that runs directly in Google Colab.
 
@@ -9,7 +9,17 @@ This repository contains coding tutorials for the AI Agents course. Each tutoria
 
 ## Tutorials
 
-### 1. ReAct Agent with Hugging Face Transformers - No Frameworks, No paid APIs
+### 1. Simple AI Workflow with Reflection using OpenRouter
+In this demo, we build a simple AI workflow that demonstrates the reflection pattern using three LLM personas working together to produce a polished report.
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tligorio/ai_workflow_reflection_tutorial/blob/main/AI_Workflow_with_Reflection.ipynb)
+
+
+[Repository](https://github.com/tligorio/ai_workflow_reflection_tutorial/tree/main)
+
+---
+
+### 3. ReAct Agent with Hugging Face Transformers - No Frameworks, No paid APIs
 Build an agent that reasons step-by-step and uses tools to solve problems, from scratch (framework-free). Uses open-source models.
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tligorio/hugging_react_agent_tutorial/blob/main/hugging_ReAct_agent_Qwen2_5.ipynb)
@@ -19,7 +29,7 @@ Build an agent that reasons step-by-step and uses tools to solve problems, from 
 
 ---
 
-### 2. ReAct Agent with LangChain - Framework Approach -COMING SOON
+### 4. ReAct Agent with LangChain - Framework Approach -COMING SOON
 Build a ReAct agent using LangChain's components. Compare how tool integration, prompting, and execution differ from the manual implementation. 
 
 [![Open In Colab-Coming Soon](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR_USERNAME/langchain-agent-tutorial/blob/main/langchain_agent.ipynb)
@@ -28,7 +38,7 @@ Build a ReAct agent using LangChain's components. Compare how tool integration, 
 
 ---
 
-### 3. Multi-Agent Collaboration with LangGraph -COMING SOON
+### 5. Multi-Agent Collaboration with LangGraph -COMING SOON
 Build a system with multiple specialized agents working together, each handling different sub-tasks and tools. Explore LangGraph's graph-based orchestration.
 
 [![Open In Colab-Coming Soon](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR_USERNAME/memory-agent-tutorial/blob/main/memory_agent.ipynb)
