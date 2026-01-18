@@ -19,6 +19,16 @@ In this demo, we build a simple AI workflow that demonstrates the reflection pat
 
 ---
 
+### 2. Simple AI Workflow with RAG using OpenRouter and Supabase
+In this demo, we build a simple AI workflow that demonstrates the **Retrieval Augmented Generation (RAG)** pattern — a technique that grounds LLM responses in specific documentation, reducing hallucinations and enabling the model to answer questions about information not in its training data.
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tligorio/ai_workflow_rag_tutorial/blob/main/AI_Workflow_with_RAG.ipynb)
+
+
+[Repository](https://github.com/tligorio/ai_workflow_rag_tutorial/tree/main)
+
+---
+
 ### 3. ReAct Agent with Hugging Face Transformers - No Frameworks, No paid APIs
 Build an agent that reasons step-by-step and uses tools to solve problems, from scratch (framework-free). Uses open-source models.
 
