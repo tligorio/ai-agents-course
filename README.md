@@ -19,13 +19,22 @@ In this demo, we build a simple AI workflow that demonstrates the reflection pat
 
 ---
 
-### 2. Simple AI Workflow with RAG using OpenRouter and Supabase
+### 2a. Simple AI Workflow with RAG using OpenRouter and Supabase
 In this demo, we build a simple AI workflow that demonstrates the **Retrieval Augmented Generation (RAG)** pattern — a technique that grounds LLM responses in specific documentation, reducing hallucinations and enabling the model to answer questions about information not in its training data.
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tligorio/ai_workflow_rag_tutorial/blob/main/AI_Workflow_with_RAG.ipynb)
 
 
 [Repository](https://github.com/tligorio/ai_workflow_rag_tutorial/tree/main)
+
+---
+
+### 2b. Simple AI Workflow with Local RAG using Ollama and Postgres
+In this demo, we build a simple AI workflow that demonstrates the **Retrieval Augmented Generation (RAG)** pattern by creating a FastHTML tutor that can answer questions about the FastHTML library — using a **fully local stack** with no API calls required.  
+
+This tutorial runs locally only (no Colab option due to Docker requirements) 
+
+[Repository](https://github.com/tligorio/ai_workflow_local_rag_tutorial/tree/main)  
 
 ---
 
