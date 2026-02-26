@@ -51,7 +51,7 @@ Build an agent that reasons step-by-step and uses tools to solve problems, from 
 ### 4. ReAct Agent with LangChain - Framework Approach -COMING SOON
 Build a ReAct agent using LangChain's components. Compare how tool integration, prompting, and execution differ from the manual implementation. 
 
-### Option 1: Run in Google Colab (Recommended for Part 1 of the notebook ONLY)
+**Note: Running in Google Colab is recommended for Part 1 of the notebook ONLY**
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tligorio/langchain_react_agent_tutorial/blob/main/LangChain_ReAct_agent_OpenRouter.ipynb)
 
