@@ -3,7 +3,7 @@
 
 This repository contains coding tutorials for the AI Agents course. Each tutorial is a standalone Jupyter notebook that runs directly in Google Colab.
 
-**Course Website:** [Coming Soon](https://your-course-website.com)
+#### **[Course Website](https://open-ground-a37.notion.site/AI-Agents-2e68c916ae49803ea90eda702de24474)** 
 
 ---
 
@@ -48,7 +48,7 @@ Build an agent that reasons step-by-step and uses tools to solve problems, from 
 
 ---
 
-### 4. ReAct Agent with LangChain - Framework Approach -COMING SOON
+### 4. ReAct Agent with LangChain - Framework Approach 
 Build a ReAct agent using LangChain's components. Compare how tool integration, prompting, and execution differ from the manual implementation. 
 
 **Note: Running in Google Colab is recommended for Part 1 of the notebook ONLY**
@@ -57,9 +57,6 @@ Build a ReAct agent using LangChain's components. Compare how tool integration, 
 
 Click the badge above to open the notebook directly in Google Colab.
 
-> **Note:** Colab does not display pre-saved outputs. To view the notebook with all outputs already rendered (without running it), use the nbviewer link below.
-
-[![View in nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/tligorio/langchain_react_agent_tutorial/blob/main/LangChain_ReAct_agent_OpenRouter.ipynb?flush_cache=true)
 
 [Repository](https://colab.research.google.com/github/tligorio/langchain_react_agent_tutorial/blob/main/LangChain_ReAct_agent_OpenRouter.ipynb)
 
