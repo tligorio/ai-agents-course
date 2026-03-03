@@ -58,16 +58,16 @@ Build a ReAct agent using LangChain's components. Compare how tool integration, 
 Click the badge above to open the notebook directly in Google Colab.
 
 
-[Repository](https://colab.research.google.com/github/tligorio/langchain_react_agent_tutorial/blob/main/LangChain_ReAct_agent_OpenRouter.ipynb)
+[Repository](https://github.com/tligorio/langchain_react_agent_tutorial/tree/main)
 
 ---
 
-### 5. Multi-Agent Collaboration with LangGraph -COMING SOON
+### 5. Multi-Agent Collaboration with LangGraph 
 Build a system with multiple specialized agents working together, each handling different sub-tasks and tools. Explore LangGraph's graph-based orchestration.
 
-[![Open In Colab-Coming Soon](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR_USERNAME/memory-agent-tutorial/blob/main/memory_agent.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tligorio/multiagent_langgraph_tutorial/blob/main/Multiagent_LangGraph.ipynb)
 
-[Repository-Coming Soon](https://github.com/YOUR_USERNAME/memory-agent-tutorial)
+[Repository](https://github.com/tligorio/multiagent_langgraph_tutorial/tree/main)
 
 ---
 
