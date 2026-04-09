@@ -82,4 +82,4 @@ Build a system with multiple specialized agents working together, each handling 
 
 ## Questions or Issues?
 
-Please visit the [course website -Coming Soon](https://your-course-website.com) or open an issue in the relevant tutorial repository.
+Please visit the [course website](https://open-ground-a37.notion.site/AI-Agents-2e68c916ae49803ea90eda702de24474) or open an issue in the relevant tutorial repository.
