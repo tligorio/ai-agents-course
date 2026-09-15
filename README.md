@@ -12,7 +12,13 @@ This repository contains coding tutorials for the AI Agents course. Each tutoria
 ### 1. Simple AI Workflow with Reflection using OpenRouter
 In this demo, we build a simple AI workflow that demonstrates the reflection pattern using three LLM personas working together to produce a polished report.
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tligorio/ai_workflow_reflection_tutorial/blob/main/AI_Workflow_with_Reflection.ipynb)
+**Part 1 — Reflection:**
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tligorio/ai_workflow_reflection_tutorial/blob/main/AI_Workflow1_with_Reflection.ipynb)
+
+**Part 2 — Structured Output and Validation:**
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tligorio/ai_workflow_reflection_tutorial/blob/main/AI_Workflow2_with_Reflection_Structured_Validation.ipynb)
 
 
 [Repository](https://github.com/tligorio/ai_workflow_reflection_tutorial/tree/main)
