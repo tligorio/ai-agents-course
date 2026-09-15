@@ -12,11 +12,11 @@ This repository contains coding tutorials for the AI Agents course. Each tutoria
 ### 1. Simple AI Workflow with Reflection using OpenRouter
 In this demo, we build a simple AI workflow that demonstrates the reflection pattern using three LLM personas working together to produce a polished report.
 
-**Part 1 — Reflection:**
+**Part 1: Reflection**
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tligorio/ai_workflow_reflection_tutorial/blob/main/AI_Workflow1_with_Reflection.ipynb)
 
-**Part 2 — Structured Output and Validation:**
+**Part 2: Structured Output and Validation**
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tligorio/ai_workflow_reflection_tutorial/blob/main/AI_Workflow2_with_Reflection_Structured_Validation.ipynb)
 
@@ -26,7 +26,7 @@ In this demo, we build a simple AI workflow that demonstrates the reflection pat
 ---
 
 ### 2a. Simple AI Workflow with RAG using OpenRouter and Supabase
-In this demo, we build a simple AI workflow that demonstrates the **Retrieval Augmented Generation (RAG)** pattern — a technique that grounds LLM responses in specific documentation, reducing hallucinations and enabling the model to answer questions about information not in its training data.
+In this demo, we build a simple AI workflow that demonstrates the **Retrieval Augmented Generation (RAG)** pattern, a technique that grounds LLM responses in specific documentation, reducing hallucinations and enabling the model to answer questions about information not in its training data.
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tligorio/ai_workflow_rag_tutorial/blob/main/AI_Workflow_with_RAG.ipynb)
 
@@ -36,7 +36,7 @@ In this demo, we build a simple AI workflow that demonstrates the **Retrieval Au
 ---
 
 ### 2b. Simple AI Workflow with Local RAG using Ollama and Postgres
-In this demo, we build a simple AI workflow that demonstrates the **Retrieval Augmented Generation (RAG)** pattern by creating a FastHTML tutor that can answer questions about the FastHTML library — using a **fully local stack** with no API calls required.  
+In this demo, we build a simple AI workflow that demonstrates the **Retrieval Augmented Generation (RAG)** pattern by creating a FastHTML tutor that can answer questions about the FastHTML library, using a **fully local stack** with no API calls required.  
 
 This tutorial runs locally only (no Colab option due to Docker requirements) 
 
